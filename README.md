@@ -17,7 +17,7 @@ Welcome to Ahmed Saleh's profile!
 
 
 ## 🛠 Skills
-Python, SQL, Data Modeling, ETL/ELT pipeline construction, workflow orchestration (Airflow), and database management (SQL & NoSQL), 
+Python, SQL, Data Modeling, ETL/ELT pipeline construction, workflow orchestration (Airflow), and database management (SQL & NoSQL), AWS Cloud.
 
 
 ### Connect with me on LinkedIn:
